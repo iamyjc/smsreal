@@ -1,0 +1,9 @@
+body{
+    font: 14px/1.5 "Google Sans", Roboto, "Noto Sans TC", Arial, sans-serif;
+    background: radial-gradient(circle , #5a5a5a .5px, transparent .5px);
+    background-size: 15px 15px;
+}
+
+.header{
+    margin: 1.2em auto;
+}
